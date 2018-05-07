@@ -27,3 +27,5 @@ wpg.py -c "#0000FF" -e "#FF0000" 1600 900
 ```
 
 This will create a wallpaper (1600x900), which displays the gradient from blue to red. The step size will be the GCD of width and height.
+
+![Screenshot](LRhVphJrhF.png)
